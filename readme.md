@@ -4,14 +4,6 @@
 
 This notebook has been refactored to follow software engineering best practices while preserving its pedagogical value.
 
-## Project Structure
-
-| File | Description |
-|------|-------------|
-| `q_rnn_and_grad.ipynb` | Original teaching notebook |
-| `q_rnn_and_grad_refactored.ipynb` | Refactored version with improved code quality |
-| `img/` | Supporting figures (1a.png, 1c.png, 1h.png) |
-
 ## Notebook Contents
 
 | Section | Topic | Learning Objective |
