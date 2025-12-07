@@ -4,16 +4,6 @@
 
 This notebook has been refactored to follow software engineering best practices while preserving its pedagogical value.
 
-## Notebook Contents
-
-| Section | Topic | Learning Objective |
-|---------|-------|-------------------|
-| **1.A** | RNNLayer | Implement single-layer RNN: `h_t = σ(W^h h_{t-1} + W^x x_t + b)` |
-| **1.B** | RecurrentRegressionModel | Add output layer: `ŷ_t = W^f h_t + b^f` |
-| **1.C** | Dataset & Loss | Cumulative average prediction task |
-| **1.D** | Gradient Visualization | Explore vanishing/exploding gradients |
-| **1.K** | Multi-layer RNN | Stack RNN layers for deeper networks |
-
 ## Changes Made
 
 | Category | Change | Reference |
